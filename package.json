@@ -1,5 +1,5 @@
 {
-  "name": "less-plugin-clean-css",
+  "name": "@wikimedia/less-plugin-clean-css",
   "version": "1.5.1",
   "description": "clean-css plugin for less.js",
   "homepage": "http://lesscss.org",
